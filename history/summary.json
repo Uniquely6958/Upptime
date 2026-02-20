@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-19": 61,
+      "2026-02-20": 57,
+      "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
@@ -157,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 118,
-    "timeWeek": 243,
-    "timeMonth": 191,
-    "timeYear": 205,
+    "time": 212,
+    "timeDay": 1064,
+    "timeWeek": 362,
+    "timeMonth": 216,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   }
 ]
